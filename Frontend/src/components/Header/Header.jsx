@@ -26,7 +26,7 @@ function Header() {
   useEffect(() => {
     const user = async () => {
       const temp = await fetch(
-        "http://localhost:3000/api/v1/users/current-user",
+        "https://kitab-dan-server.vercel.app/api/v1/users/current-user",
         {
           method: "GET",
 
