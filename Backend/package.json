@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "file sharing website",
+  "description": "Kitab Dan website",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,7 +10,7 @@
     "client-start": "npm run dev --prefix Frontend",
     "build": "npm install && npm install --prefix Frontend && npm run build --prefix Frontend"
   },
-  "author": "Shivam Singh Yadav",
+  "author": "Shubham",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
