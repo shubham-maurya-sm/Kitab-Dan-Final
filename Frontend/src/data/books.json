@@ -1,0 +1,659 @@
+[
+ 
+  {
+    "id": "2-physics-12-ncert-part2",
+    "title": "Physics Text Book For Class 12 Part 2",
+    "coverImageSrc": "https://www.mypustak.com/_next/image?url=https%3A%2F%2Fmypustak-6.s3.amazonaws.com%2Fbooks%2Fmedium%2Fcropped_KOL640184.jpg&w=1920&q=75",
+    "genre": ["NCERT",
+      "12",
+      "science",
+      "Physics",
+      "Part 1"],
+    "description": "NCERT PHYSICS CLASS 12 PART 2",
+    "authorName": "NCERT",
+    "authorId": "#"
+  },
+  {
+    "id": "3-handbook-of-physics",
+    "title": "Handbook of Physics",
+    "coverImageSrc": "https://www.mypustak.com/_next/image?url=https%3A%2F%2Fmypustak-6.s3.amazonaws.com%2Fbooks%2Fmedium%2F58_9789313196488_t1.jpg&w=1080&q=75",
+    "genre": [
+      "competition",
+      "jee",
+      "neet",
+      "class-12",
+      "academic",
+      "school"
+    ],
+    "price": "14.47",
+    "description": "Handbook of Physics",
+    "authorName": "Arihant",
+    "authorId": "1825.Harper_Lee"
+  },
+  {
+    "id": "4-ncert-science-class10",
+    "title": "Ncert Science Textbook For Class 10",
+    "coverImageSrc": "https://www.mypustak.com/_next/image?url=https%3A%2F%2Fmypustak-6.s3.amazonaws.com%2Fbooks%2Fmedium%2Fcropped_KOL300459.jpg&w=1080&q=75",
+    "genre": [
+      "school",
+      "class 10",
+      "science",
+      "ncert"
+      
+    ],
+    "authorName": "NCERT",
+    "authorId": "1265.Jane_Austen"
+  },
+   {
+    "id": "1-physics-12-ncert-part1",
+    "title": "Physics Text Book For Class 12 Part 1",
+    "coverImageSrc": "https://www.mypustak.com/_next/image?url=https%3A%2F%2Fmypustak-6.s3.amazonaws.com%2Fbooks%2Fmedium%2Fcropped_KOL561054.jpg&w=1920&q=75",
+    "genre": [
+      "NCERT",
+      "12",
+      "science",
+      "Physics",
+      "Part 1"
+    ],
+    "description": "NCERT PHYSICS CLASS 12",
+    "authorName": "NCERT",
+    "authorId": "#"
+  },
+  {
+    "id": "5-concept-of-physics",
+    "title": "Concept of Physics part 2",
+    "coverImageSrc": "https://www.mypustak.com/_next/image?url=https%3A%2F%2Fmypustak-6.s3.amazonaws.com%2Fbooks%2Fmedium%2Fcropped_KOL484767.jpg&w=1080&q=75",
+    "genre": [
+      "young-adult",
+      "fantasy",
+      "romance",
+      "paranormal",
+      "vampires",
+      "fiction",
+      "fantasy",
+      "paranormal"
+    ],
+    "description": "concept of physics by HC Verma",
+    "authorName": "HC Verma",
+    "authorId": "#"
+  },
+  {
+    "id": "8-history-of-indian-ocean",
+    "title": "Incredible History Of The Indian Ocean",
+    "coverImageSrc": "https://www.mypustak.com/_next/image?url=https%3A%2F%2Fmypustak-6.s3.amazonaws.com%2Fbooks%2Fmedium%2F57_9780143446019_t1.jpg&w=1080&q=75",
+    "genre": ["historical", "history indian ocean", "knowledge", "others"],
+    "description": "All about history of indian ocean.",
+    "authorName": "Sanyal, Sanjeev",
+    "authorId": "#"
+  },
+  {
+    "id": "7-ncert-exempler-class6",
+    "title": "Ncert Exemplar Problems Solutions Science Class 6th",
+    "coverImageSrc": "https://www.mypustak.com/_next/image?url=https%3A%2F%2Fmypustak-6.s3.amazonaws.com%2Fbooks%2Fmedium%2F58_9789327197310_t1.jpg&w=1080&q=75",
+    "genre": [
+      "class 6",
+      "exemplar",
+      "science",
+      "dystopia",
+      "fantasy",
+      "literature"
+    ],
+    "description": "good book for practicising example questions",
+    "authorName": " Kirti Sharma , Seema Sharma",
+    "authorId": "#"
+  },
+  {
+    "id": "10-computer-science-java-icse",
+    "title": "Computer Science With Java A Textbook For Class 11",
+    "coverImageSrc": "https://www.mypustak.com/_next/image?url=https%3A%2F%2Fmypustak-6.s3.amazonaws.com%2Fbooks%2Fmedium%2Fcropped_KOL671677.jpg&w=1080&q=75",
+    "rating": "4.26",
+    "genre": [
+      "ICSE",
+      "computer science",
+      "class 11",
+      "java",
+      "computers"
+     
+    ],
+    "description": "book of computer science with java specially for icse students",
+    "authorName": "Sumita Arora",
+    "authorId": "#"
+  },
+  {
+    "id": "3-secret-of-leadership",
+    "title": "Secrets Of Leadership The Panchatantra Way",
+    "coverImageSrc": "https://www.mypustak.com/_next/image?url=https%3A%2F%2Fmypustak-6.s3.amazonaws.com%2Fbooks%2Fmedium%2F0779072001500884457.jpg&w=1080&q=75",
+    "genre": ["others", "panchtantra", "leadership"],
+    "description": "no description available",
+    "authorName": "Luis Sr Vas,Anita Sr Vas",
+    "authorId": "#"
+  },
+  {
+    "id": "43-citizenship-act-1955",
+    "title": "The Citizenship Act 1955",
+    "coverImageSrc": "https://www.mypustak.com/_next/image?url=https%3A%2F%2Fmypustak-6.s3.amazonaws.com%2Fbooks%2Fmedium%2Fcropped_KOL687720.jpg&w=1080&q=75",
+    "genre": [
+      "civics",
+      "act",
+      "constitution",
+      "citizenship",
+      "1955"
+    ],
+    "description": "it describes the citizenship act of 1955 of indian constitution ",
+    "authorName": "No author",
+    "authorId": "#"
+  },
+  {
+    "id": "118-cyber-law",
+    "title": "Textbook On Cyber Law",
+    "coverImageSrc": "https://www.mypustak.com/_next/image?url=https%3A%2F%2Fmypustak-6.s3.amazonaws.com%2Fbooks%2Fmedium%2FKOL687687.jpg&w=1080&q=75",
+    "genre": [
+      "cyber-laws",
+      "law",
+      "cyber attacks"
+      
+     
+    ],
+    "description": "it describes all the cyber laws",
+    "authorName": "Pawan Duggal",
+    "authorId": "#"
+  },
+  {
+    "id": "37jee-maths",
+    "title": "Jee Mains Mathematics",
+    "coverImageSrc": "https://mtgpublicwp.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2021/05/05160133/2023_jee_main_maths_9789355558411-250x340.webp",
+    "genre": ["jee", "maths", "tests", "papers", "mock tests"],
+    "price": "17.29",
+    "description": "\"best to prepare maths by solving mock tests.\"",
+    "authorName": "R. K. Tyagi",
+    "authorId": "#"
+  },
+  {
+    "id": "61-historyNcivics-class-10",
+    "title": "Total History And Civics Icse For Class 10",
+    "coverImageSrc": "https://www.mypustak.com/_next/image?url=https%3A%2F%2Fmypustak-6.s3.amazonaws.com%2Fbooks%2Fmedium%2Fcropped_KOL599281.jpg&w=1920&q=75",
+    "rating": "3.85",
+    "genre": [
+      "icse",
+      "history",
+      "class 10",
+      
+      "historical",
+     
+    
+      "19th-century",
+     
+      "historical"
+    ],
+     "description": "\"best to icse  history for class X  \"",
+    "authorName": " Dolly E Sequeira",
+    "authorId": "#"
+  },
+  {
+    "id": "96-Let_us_C",
+    "title": "Let Us C",
+    "coverImageSrc": "https://rukminim2.flixcart.com/image/850/1000/k4lmv0w0/book/6/3/0/let-us-c-original-imafnenjsgn6hzbh.jpeg?q=90&crop=false",
+    "genre": ["C", "programming", "bsics", "ug"],
+    "authorName": "Yashavant kanetkar",
+    "authorId": "#"
+  },
+  {
+    "id": "930.JEE Main Online Solved Papers",
+    "title": "JEE Main Online Solved Papers",
+    "coverImageSrc": "https://rukminim2.flixcart.com/image/612/612/khz693k0-0/regionalbooks/e/l/k/jee-main-online-solved-papers-2021-original-imafxvfghwuvchhc.jpeg?q=70",
+    "genre": [
+      
+      "jee",
+      "competition",
+      "iit",
+      "mains",
+      "pyq"
+     
+    ],
+    "description": "It consist of solved papers of iit jee",
+    "authorName": " Dr. Manish Gupta",
+    "authorId": "#"
+  },
+  {
+    "id": "52-BCA maths",
+    "title": "BCA Mathematics Volume-3",
+    "coverImageSrc": "https://rukminim2.flixcart.com/image/612/612/koono280/regionalbooks/a/a/l/bca-mathematics-volume-3-original-imag32ybntjgvjhb.jpeg?q=70",
+    "genre": [
+      "ug",
+      "bca",
+      "maths"
+    ],
+    "description": "BCA maths",
+    "authorName": "B. K. Pal, K. Das",
+    "authorId": "#"
+  },
+  {
+    "id": "2_Basic|_Electronics",
+    "title": "Basic Electrical Engineering B.Tech I-Year I-Sem",
+    "coverImageSrc": "https://rukminim2.flixcart.com/image/612/612/xif0q/regionalbooks/4/e/j/basic-electrical-engineering-b-tech-i-year-i-sem-i-year-ii-sem-original-imagqyx3fsqc3gjx.jpeg?q=70",
+    "rating": "4.07",
+    "genre": [
+      "btech",
+      "college",
+      "ug",
+      "electrical"
+      
+    ],
+    "description": "\"Basic electrical engineering\"",
+    "authorName": "SIA Publishers",
+    "authorId": "#"
+  },
+  {
+    "id": "1_Computer-Architecture",
+    "title": "Computer Architecture",
+    "coverImageSrc": "https://rukminim2.flixcart.com/image/612/612/xif0q/regionalbooks/u/q/j/bca-i-year-ii-sem-computer-architecture-latest-2024-edition-original-imagykb978c867zn.jpeg?q=70",
+    "genre": [
+      "computer architecture",
+      "bca",
+      "btech",
+      "coa",
+     "ug",
+      "college"
+    ],
+    "authorName": "SIA Team Of Experts",
+    "authorId": "#"
+  },
+  {
+    "id": "24-Mca_Entrances",
+    "title": "MCA entrances",
+    "coverImageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpGw867sgu0hLpzMHKgVCCcJ0TJLmqs2tcMgWTo6-mqw&s",
+    "genre": [
+      "classics",
+      "fiction",
+      "historical",
+      "historical-fiction",
+      "literature"
+    ],
+    "description": "for nimcet exams",
+    "authorName": "Amit M. Aggrawal",
+    "authorId": "#"
+  },
+  {
+    "id": "133_Web-technologies",
+    "title": "Text Book Of Web Technologies For Bca/Bcs And B. Sc Student",
+    "coverImageSrc": "https://wissenbookstore.com/wp-content/uploads/2023/05/1-OB6311-front-jpg.jpg",
+    "genre": [
+      "bca",
+      "ug",
+      "bsc",
+      "web",
+      "development"
+    ],
+    "description": "Text Book Of Web Technologies For Bca/Bcs And B. Sc Student",
+    "authorName": "Shaikh Junaid Ahamad",
+    "authorId": "#"
+  },
+  {
+    "id": "18135.Romeo_and_Juliet",
+    "title": "Romeo and Juliet",
+    "coverImageSrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572098085l/18135._SY475_.jpg",
+    "genre": [
+      "classics",
+      "plays",
+      "fiction",
+      "romance",
+      "academic",
+      "school",
+      "drama",
+      "academic",
+      "read-for-school",
+      "literature",
+      "young-adult",
+      "high-school",
+      "poetry"
+    ],
+    "description": " play :Romio & Juliet ",
+    "authorName": "William Shakespeare",
+    "authorId": "947.William_Shakespeare"
+  },
+  {
+    "id": "762_DATA STRUCTURES",
+    "title": "DATA STRUCTURES",
+    "coverImageSrc": "https://rukminim2.flixcart.com/image/850/1000/kjabs7k0-0/book/m/r/f/data-structures-original-imafyw45zfsazndp.jpeg?q=90&crop=false",
+    "genre": ["data structures", "bca", "ug", "academic", "college"],
+    "description": "it have chapters - intro to data structure, arrays, linked lists, stacks & queues, trees, graphs",
+    "authorId": "#"
+  },
+  {
+    "id": "865.The_Alchemist",
+    "title": "The Alchemist",
+    "coverImageSrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483412266l/865.jpg",
+    "rating": "3.86",
+    "genre": ["fiction", "classics", "fantasy", "philosophy"],
+    "price": "13.69",
+    "description": "Paulo Coelho's masterpiece tells the mystical story of Santiago, an Andalusian shepherd boy who yearns to travel in search of a worldly treasure. His quest will lead him to riches far different—and far more satisfying—than he ever imagined. Santiago's journey teaches us about the essential wisdom of listening to our hearts, of recognizing opportunity and learning to read",
+    "authorName": "Paulo Coelho",
+    "authorId": "566.Paulo_Coelho"
+  },
+  {
+    "id": "7144.MTG_Complete_NEET_Guide_Biology",
+    "title": "MTG Complete NEET Guide Biology",
+    "coverImageSrc": "https://m.media-amazon.com/images/I/71bdrUygAhL._AC_UF1000,1000_QL80_.jpg",
+    "genre": [
+      "biology",
+      "neet",
+      "chapterwise",
+      "guide"
+     
+    ],
+    "description": "It is a MTG publication book best suitable for neet students",
+    "authorName": "MTG publications",
+    "authorId": "#"
+  },
+  {
+    "id": "11.Biology_for_Neet",
+    "title": "Biology for neet" ,
+     "coverImageSrc":"https://www.schandpublishing.com/Handler/ImageHandler.ashx?width=314&height=404&imgpath=~/Upload/BookImage/9789352833788.jpg",
+    "genre": ["neet", "biology", "competition", "preparation"],
+    "description": "NEET Biology Books for Preparation  ",
+    "authorName": "S. Chand",
+    "authorId": "#"
+  },
+  {
+    "id": "22_Errorless_Physics",
+    "title": " Errorless Physics",
+    "coverImageSrc": "https://rukminim2.flixcart.com/image/850/1000/l2nmnww0/book/f/2/s/ubd1960-errorless-physics-for-neet-as-per-nta-paperback-free-original-imagdy9qtzjrgvwt.jpeg?q=20&crop=false",
+    "genre": ["neet", "biology", "competition", "preparation"],
+    "description": "standing on the fringes of life...",
+    "authorName": "Errorless",
+    "authorId": "#"
+  },
+  {
+    "id": "375Python",
+    "title": "Python: The Complete Reference",
+    "coverImageSrc": "https://m.media-amazon.com/images/I/51y1U5JPfyL._AC_UY327_FMwebp_QL65_.jpg",
+     "genre": ["python", "ug", "college", "program", ""],
+    "description": "Python: The Complete Reference",
+    "authorName": " Martin C. Brown",
+    "authorId": "#"
+  },
+  {
+    "id": "46Complete_NEET_Guide_Chapterwise",
+    "title": "Complete NEET Guide Chapterwise",
+    "coverImageSrc": "https://bookstation.in/cdn/shop/products/43098_front.jpg?v=1679722555&width=1024",
+    "genre": [
+      "neet",
+      "guide",
+      "chapterwise",
+      "physics",
+      "tociwise",
+     
+      "academic"
+      
+    ],
+    "description": "Complete NEET Guide Chapterwise ",
+    "authorName": "MTG publications",
+    "authorId": ""
+  },
+  {
+    "id": "256Java-Programming",
+    "title": "A Textbook of Java Programming",
+    "coverImageSrc": "https://m.media-amazon.com/images/I/81BROimNPvL._SY466_.jpg",
+    "genre": ["java", "ug", "college", "program", "JDK"],
+    "description": "A Textbook of Java Programming ",
+    "authorName": "Wiley",
+    "authorId": "#"
+  },
+  {
+    "id": "466The-complete-reference",
+    "title": "C++: THE COMPLETE REFERENCE",
+    "coverImageSrc": "https://m.media-amazon.com/images/I/71rUP3ZW4NL._AC_UY327_FMwebp_QL65_.jpg",
+    "rating": "4.47",
+     "genre": ["c++", "ug", "college", "program", "cpp"],
+    "price": "17.44",
+    "description": " C++: THE COMPLETE REFERENCE",
+    "authorName": " Herbert Schildt ",
+    "authorId": "#"
+  },
+  {
+    "id": "812Programming_with_java",
+    "title": "Programming with java",
+    "coverImageSrc": "https://images-eu.ssl-images-amazon.com/images/I/61FmuzUH8AL._AC_UL400_SR400,400_.jpg",
+    "genre": ["java", "ug", "college", "program", "JDK"],
+    "description": "Programming with java",
+    "authorName": "E Balagurusamy",
+    "authorId": "#"
+  },
+  {
+    "id": "241_Godaan",
+    "title": "Godaan",
+    "coverImageSrc": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOFH6KKBr1Z6r-jOAKhTYWeK8x4XcuLaLXA28CDWZ3IzKgcbOF",
+    "genre": ["play", "godaan", "others"],
+    "description": "A famous literature by Premchand: Godaan",
+    "authorName": "Prem Chand",
+    "authorId": "#"
+  },
+  {
+    "id": "186DSA",
+    "title": "Data Structures & Algorithms",
+    "coverImageSrc": "https://m.media-amazon.com/images/I/71kBRLo8ZtL._AC_UF1000,1000_QL80_.jpg",
+    "genre": [
+      "dsa",
+      "computer",
+      "bca",
+      "ug"
+    ],
+    "description": "An ideal book for first course on data structures and algorithms, its text ensures a style and content relevant to present-day programming.",
+    "authorName": "Alfred V. Aho",
+    "authorId": "#"
+  },
+  {
+    "id": "890.FOUNDATIONS_OF_DATA_SCIENCE ",
+    "title": "FOUNDATIONS OF DATA SCIENCE ",
+    "coverImageSrc": "https://m.media-amazon.com/images/I/41SjoQsYheL.jpg",
+    "genre": [
+      "data science",
+      "bca",
+      "ug",
+      "mca",
+      "college",
+      "bteh"
+     
+    ],
+    "description": "FOUNDATIONS OF DATA SCIENCE (Third Year TY BSc Computer Science Semester 5",
+    "authorName": " Dr Ms Manisha Bharambe",
+    "authorId": "#"
+  },
+  {
+    "id": "1579OxfordAtlasForIndia",
+    "title": "Oxford Student Atlas For India",
+    "coverImageSrc": "https://www.mypustak.com/_next/image?url=https%3A%2F%2Fmypustak-6.s3.amazonaws.com%2Fbooks%2Fmedium%2Fcropped_KOL404741.jpg&w=1920&q=75",
+    "genre": ["maps", "schools", "academic", "oxford"],
+    "description": "Oxford Student Atlas For India",
+    "authorName": "others",
+    "authorId": "#"
+  },
+  {
+    "id": "172OperationManagement",
+    "title": "Operation Management",
+    "coverImageSrc": "https://www.mypustak.com/_next/image?url=https%3A%2F%2Fmypustak-6.s3.amazonaws.com%2Fbooks%2Fmedium%2FKOL362097.jpg&w=1920&q=75",
+    "genre": [
+      "management",
+      "college",
+      "ug",
+      "operations"
+    ],
+    "authorName": "Ap Verma",
+    "authorId": "#"
+  },
+  {
+    "id": "5129.IndianEconomicDevelopment",
+    "title": "Indian Economic Development",
+    "coverImageSrc": "https://www.mypustak.com/_next/image?url=https%3A%2F%2Fmypustak-6.s3.amazonaws.com%2Fbooks%2Fmedium%2FKOL648349.jpg&w=1920&q=75",
+    "genre": [
+      "india",
+      "economy",
+      "class 11",
+      "development"
+    ],
+    "description": "Indian Economic Development",
+    "authorName": "others",
+    "authorId": "#"
+  },
+  {
+    "id": "3.Harry_Potter_and_the_Sorcerer_s_Stone",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "coverImageSrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474154022l/3._SY475_.jpg",
+    "rating": "4.47",
+    "genre": [
+      "fantasy",
+      "young-adult",
+      "fiction",
+      "fantasy",
+      "magic",
+      "childrens",
+      "adventure",
+      "childrens",
+      "middle-grade",
+      "classics",
+      "audiobook",
+      "science-fiction-fantasy"
+    ],
+    "price": "17.28",
+    "description": "Alternate cover edition of ISBN 9780439554930",
+    "authorName": "J.K. Rowling",
+    "authorId": "1077326.J_K_Rowling"
+  },
+  {
+    "id": "320Composite Mathematics Book 8",
+    "title": "Composite Mathematics Book 8",
+    "coverImageSrc": "https://www.mypustak.com/_next/image?url=https%3A%2F%2Fmypustak-6.s3.amazonaws.com%2Fbooks%2Fmedium%2Fcropped_KOL465684.jpg&w=1080&q=75",
+    "genre": ["fiction", "classics", "magical-realism", "literature"],
+    "description": "Composite Mathematics Book 8",
+    "authorName": "S. K. Gupta & Anubhuti Gamgal",
+    "authorId": "#"
+  },
+  {
+    "id": "21Isc Commerce Class 12",
+    "title": "Isc Commerce Class 12",
+    "coverImageSrc": "https://www.mypustak.com/_next/image?url=https%3A%2F%2Fmypustak-6.s3.amazonaws.com%2Fbooks%2Fmedium%2Fcropped_KOL219668.jpg&w=1080&q=75",
+    "genre": [
+      "isc",
+      "cisce",
+      "commerce",
+      "nootan"
+      
+    ],
+    "description": "Isc Commerce Class 12",
+    "authorName": "Agarwal Jain",
+    "authorId": "#"
+  },
+  {
+    "id": "510Ncert Exemplar Problems Solutions Mathematics Class 10",
+    "title": "Ncert Exemplar Problems Solutions Mathematics Class 10",
+    "coverImageSrc": "https://www.mypustak.com/_next/image?url=https%3A%2F%2Fmypustak-6.s3.amazonaws.com%2Fbooks%2Fmedium%2F58_9789327197402_t1.jpg&w=1080&q=75",
+    "genre": ["ncert", "exemplar", "class10", "problem-solutions"],
+    "description": "Ncert Exemplar Problems Solutions Mathematics Class 10",
+    "authorName": "Neha Tyagi",
+    "authorId": "#"
+  },
+  {
+    "id": "29Economics Textbook For Class 9",
+    "title": "Economics Textbook For Class 9",
+    "coverImageSrc": "https://www.mypustak.com/_next/image?url=https%3A%2F%2Fmypustak-6.s3.amazonaws.com%2Fbooks%2Fmedium%2Fcropped_KOL645084.jpg&w=1080&q=75",
+    "genre": ["economics", "schools", "class 9", "young-adult"],
+    "description": "Economics Textbook For Class 9. ",
+    "authorName": "Others/NCERT",
+    "authorId": "#"
+  },
+  {
+    "id": "1280NOOTAN ISC Board Physics Book for Class 12",
+    "title": "NOOTAN ISC Board Physics Book for Class 12",
+    "coverImageSrc": "https://m.media-amazon.com/images/I/51gAIWTAdpL._SX342_SY445_.jpg",
+    "genre": ["physics", "cisce", "icse", "nootan"],
+    "authorName": "kumar-mittal",
+    "authorId": ""
+  },
+  {
+    "id": "123NOOTAN ISC Board Chemistry Book for Class 11",
+    "title": "NOOTAN ISC Board Chemistry Book for Class 11",
+    "coverImageSrc": "https://m.media-amazon.com/images/I/51QWoUD7+OL._AC_SF480,480_.jpg",
+    "genre": ["chemistry", "cisce", "icse", "nootan"],
+    "authorName": "HC Srivastava",
+    "authorId": "106.Madeleine_L_Engle"
+  },
+  {
+    "id": "28Nootan UP Board Physics for Class 12th ",
+    "title": "Nootan UP Board Physics for Class 12th ",
+    "coverImageSrc": "https://www.tlmcorner.com/wp-content/uploads/2023/11/IMG_20231130_130338_802-scaled.jpg",
+    "genre": ["physics", "ncert", "upboard", "nootan"],
+    "authorName": "kumar-mittal",
+    "authorId": "#"
+  },
+  {
+    "id": "4381R D Sharma Mathematics Class - 11 ",
+    "title": "R D Sharma Mathematics Class - 11 ",
+    "coverImageSrc": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1460210286i/29862575.jpg",
+    "genre": [
+      "maths",
+      "ug",
+      "school",
+      "rd sharma",
+      "class 11"
+    ],
+    "description": "R D Sharma Mathematics Class - 11 ",
+    "authorName": "R D sharma",
+    "authorId": "#"
+  },
+  {
+    "id": "1349Self Help to C.B.S.E. Mathematics ",
+    "title": "Self Help to C.B.S.E. Mathematics ",
+    "coverImageSrc": "https://neighbourjoy-5.myshopify.com/cdn/shop/products/51NMHJcyolL_grande.jpg?v=1505934026",
+    "genre": [
+      "guide",
+      "ncert",
+      "class 11",
+      "self help"
+     
+    ],
+    "description": "Self Help to C.B.S.E. Mathematics ",
+    "authorName": "Arun Deep's",
+    "authorId": "#"
+  },
+  {
+    "id": "29UP Board Complete Course Bhotik Vigyan Class 12",
+    "title": "UP Board Complete Course Bhotik Vigyan Class 12",
+    "coverImageSrc": "https://rukminim2.flixcart.com/image/850/1000/l27wtjk0/regionalbooks/e/f/f/up-board-complete-course-bhotik-vigyan-class-12-ncert-based-for-original-imagdmymzzdhwkaz.jpeg?q=90&crop=false",
+    "genre": [
+      "physics",
+      "class-12",
+      "NCERT",
+      "upboard"
+    ],
+    "description": "UP Board Complete Course Bhotik Vigyan Class 12",
+    "authorName": "Arihant",
+    "authorId": "#"
+  },
+  {
+    "id": "1UP Board Text Book Jeev Vigyan -12",
+    "title": "UP Board Text Book Jeev Vigyan -12",
+    "coverImageSrc": "https://rukminim2.flixcart.com/image/850/1000/jv44mfk0/regionalbooks/8/b/q/up-board-text-book-jeev-vigyan-12-by-vidya-prakashan-mandir-pvt-original-imafg27rrauxq2cz.jpeg?q=90&crop=false",
+    "genre": [
+      "biology",
+      "class-12",
+      "NCERT",
+      "upboard"
+    ],
+    "authorName": "Ghnshyam gupta, AK srivastava",
+    "authorId": "#"
+  },
+  {
+    "id": "195Isc Mathematics Class 12 S Chand",
+    "title": "Isc Mathematics Class 12 S Chand",
+    "coverImageSrc": "https://rukminim2.flixcart.com/image/850/1000/l2jcccw0/regionalbooks/u/y/a/isc-mathematics-class-12-s-chand-school-books-original-imagduutwws9dkzr.jpeg?q=20&crop=false",
+    "genre": [
+      "school",
+      "class-12",
+      "isc",
+      "cisce",
+      "maths"
+    ],
+    "authorName": "OP Malhotra",
+    "authorId": "#"
+  }
+]
