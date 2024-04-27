@@ -18,7 +18,7 @@ connectDB()
 })
 
 app.get("/",(req,res)=>{
-    res.send("HELLO THIS IS SHIVAM ")
+    res.send("HELLO THIS IS SHUBHAM MAURYA ")
    
     
 })
