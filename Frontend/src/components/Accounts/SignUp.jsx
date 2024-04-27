@@ -30,7 +30,7 @@ function SignUp() {
         e.preventDefault();
         console.log("signup");
        
-      const response =await fetch('http://localhost:3000/api/v1/users/register', {
+      const response =await fetch('https://kitab-dan-server.vercel.app/api/v1/users/register', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
