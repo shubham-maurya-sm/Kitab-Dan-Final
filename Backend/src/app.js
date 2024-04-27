@@ -10,7 +10,7 @@ const app = express()
 
 const __dirname = path.resolve();
 app.use(cors({
-  origin: process.env.frontend_url,
+  origin: https://kitab-dan.vercel.app/,
   methods: ["POST",'GET'],
   credentials:true,
   allowedHeaders: ["Content-Type", "Authorization"]
