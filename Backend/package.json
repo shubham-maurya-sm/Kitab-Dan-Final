@@ -1,16 +1,16 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "file sharing website",
+  "description": "kitab dan book donation management system",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "nodemon index.js",
-    "dev": "node index.js",
+    "dev": "nodemon index.js",
     "client-start": "npm run dev --prefix Frontend",
     "build": "npm install && npm install --prefix Frontend && npm run build --prefix Frontend"
   },
-  "author": "Shivam Singh Yadav",
+  "author": "Shubham Maurya",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
