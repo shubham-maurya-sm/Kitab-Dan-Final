@@ -13,7 +13,7 @@ app.use(cors({
   origin: 'https://kitab-dan.vercel.app',
   methods: ['POST','GET'],
   credentials:true,
-  allowedHeaders: ['content-type', 'Authorization']
+  allowedHeaders: ['content-type', 'authorization']
 }));
 app.use(express.urlencoded({extended: true, limit: "16kb"}))
 
