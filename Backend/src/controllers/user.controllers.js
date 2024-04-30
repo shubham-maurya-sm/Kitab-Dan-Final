@@ -31,7 +31,7 @@ const generateAccessAndRefereshTokens = async(userId) =>{
 const registerUser = asyncHandler( async (req, res) => {
    
     const {fullName, email,phone, userType, password } = req.body
-    console.log("email: ", req.body);
+    console.log(req.body);
 
     if (
         [fullName, email,phone,userType, password].some((field) => field?.trim() === "")
@@ -74,7 +74,7 @@ const loginUser = asyncHandler(async (req, res) =>{
    
 
     const {email, password} = req.body
-    console.log(email);
+    console.log(req.body);
    
   // Check if email is provided
     if (!email || email.trim() === '') {
