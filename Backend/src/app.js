@@ -9,8 +9,12 @@ dotenv.config({
 const app = express()
 
 const __dirname = path.resolve();
-app.use(cors({ origin: 'https://kitab-dan.vercel.app/' })); 
-app.use(express.json({limit: "16kb"}))
+app.use(cors({
+  origin: 'https://kitab-dan.vercel.app',
+  methods: ['POST','GET'],
+  credentials:true,
+  allowedHeaders: ['Content-Typ', 'Authorization']
+}));
 app.use(express.urlencoded({extended: true, limit: "16kb"}))
 
 app.use(cookieParser())
