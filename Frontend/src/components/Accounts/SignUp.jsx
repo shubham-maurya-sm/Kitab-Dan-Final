@@ -35,7 +35,13 @@ console.log(formState.fullName);
             headers: {
                 'Content-Type': 'application/json',
             },
-            body: JSON.stringify(formState),
+            body: JSON.stringify(
+                fullName:formState.fullName,
+                email:formState.email,
+                phone:formState.phone,
+                userType:formState.userType,
+                password:formState.password
+            ),
         })
            
             console.log(response)
