@@ -18,7 +18,7 @@ function SignUp() {
         password: '',
         confirmPassword: ''
     });
-
+console.log(formState.fullName);
     const handleChange = (e) => {
         setFormState({
             ...formState,
