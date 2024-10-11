@@ -12,9 +12,10 @@ const Footer = () => {
           <p className="text-sm">&copy; 2023-2024 Kitab Daan (An initiative for education)</p>
           <p className="text-sm mt-2">
             Designed with ❤️ by{" "}
-            <a action="_blank" href="https://github.com/shubham-maurya-sm">
+       /*     <a action="_blank" href="https://github.com/shubham-maurya-sm">
               Shubham Maurya
             </a>
+*/
           </p>
         </div>
         <div className="text-bold text-xs">
